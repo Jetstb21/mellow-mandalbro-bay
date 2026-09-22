@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rim",
+      "hasCanvas": true,
+      "bodyTextLen": 339,
+      "bodyTextHash": "6f165f4e3f67d66365e23fbe215ce340b5ea759140d1d580428cef7541cbe88b",
+      "bodyTextPrefix": "Rim This PC › Documents FILES Q3-brief.docx ledger.xlsx field-no",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rim",
+      "hasCanvas": true,
+      "bodyTextLen": 339,
+      "bodyTextHash": "6f165f4e3f67d66365e23fbe215ce340b5ea759140d1d580428cef7541cbe88b",
+      "bodyTextPrefix": "Rim This PC › Documents FILES Q3-brief.docx ledger.xlsx field-no",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
