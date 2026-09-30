@@ -1,6 +1,7 @@
 # Etiquette
 
 How this island talks. Not a receipt. Not a theme park.
+Etiquette is what keeps the pair from collapsing.
 
 ## Voice
 
@@ -8,6 +9,20 @@ How this island talks. Not a receipt. Not a theme park.
 - Full pull is the only time the model walks in.
 - Harvester voice is a clear woman. Later, spoken. Now, the same cadence on the page.
 - Do not apologize in the harvest. Do not sell. Do not claim treatment.
+
+## Pair
+
+- Inquiry lives on the load side (`peninsula/load/`).
+- Receipt lives on the right (`peninsula/receipt/`).
+- A receipt is as good as the inquiry it answers.
+- Open water between them is the knowledge line. It grows with the inquiry.
+- The curve is allowed. The count stays even.
+
+## Birth
+
+- A worthy new finding may open its own peninsula pair: one load inquiry, one receipt.
+- A negative receipt does not open a peninsula.
+- A negative still gets a triangulation (`peninsula/tri/`) so the board stays even.
 
 ## Seats
 

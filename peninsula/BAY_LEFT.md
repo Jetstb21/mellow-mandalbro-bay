@@ -2,6 +2,12 @@
 
 Chosen bay that is **not** receipt-enclosed.
 The well is the picture. The left rail is the load.
+The receipt for this rail lives on the right: `peninsula/receipt/RECEIPT_LEFT_RAIL_2026-09-30.md`.
+
+## Inquiry on this side
+
+`peninsula/load/INQUIRY_LEFT_RAIL_2026-09-30.md`
+Question only. No answer in this file.
 
 ## What bears weight
 
@@ -11,25 +17,21 @@ The well is the picture. The left rail is the load.
 4. **Island ledger** — born on clone. Append only. Never leaves.
 5. **First nest** — legendary titles + approved bullets. Not the raw.
 
-## Layout (desk already has the bone)
+## Layout
 
 ```
-[ files / legend ] [ stage + well ]
+[ load / inquiry ]  open water  [ receipt ]
+[ files / legend ]              [ stage + well ]
 [ dock: harvest or descend ]
 ```
 
 Left column is bone (`#f4f0e8`) on purpose. Load is readable.
 Well is ink. Pretty does not hold the titles.
-
-## Seats to wire next (code, not more law)
-
-- Catalog rows use title-law strings, not `Q3-brief.docx` forever.
-- A `Legend` group under Quick access / Files.
-- Harvest button on the dock that reads bullets, not the tucked body.
-- Descend stays triple-click / dock, as built.
+Open water widens when the inquiry widens. Etiquette keeps the sides from sliding together.
 
 ## What this bay refuses
 
 - A second public repo.
 - Dumping Drive `harvest/` onto the rim.
-- Wrapping this file as another receipt.
+- Putting the answer back on the load side.
+- A peninsula for a negative. That miss goes to `peninsula/tri/`.
