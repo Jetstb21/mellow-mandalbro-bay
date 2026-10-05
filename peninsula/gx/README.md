@@ -10,3 +10,7 @@
 - Every stalled route retains its missing input and next move; no line is declared permanently closed.
 - Public scope is mathematical summaries and questions; raw downloads and private build payload remain in the local workload.
 - Started under repository ETIQUETTE/TITLE_LAW, with local team v1/v2 consulted as source history; no finished-tier promotion or gate-clean claim.
+
+## Next walks
+
+[Clock comparison](receipt/2026-10-05_CDX_CHECK_next-clock-map.md) · [Reversible-computation inquiry](load/2026-10-05_CDX_PLAN_next-reversible-control.md)
