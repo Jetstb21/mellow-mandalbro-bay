@@ -18,3 +18,5 @@
 [Receipt inverse control](receipt/2026-10-05_CDX_CHECK_next-inverse-trace.md) — next: one original game trace.
 
 [Pin stair prototype receipt](receipt/2026-10-05_CDX_CHECK_next-pin-boundary.md) · [Prime/quarter next prediction](load/2026-10-05_CDX_PREDICTION_next-prime-quarter.md)
+
+[1801 mod nest](receipt/2026-10-05_CDX_CHECK_next-1801-nest.md) — next: declare the power-neighbor rule.
