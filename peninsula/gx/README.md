@@ -16,3 +16,5 @@
 [Clock comparison](receipt/2026-10-05_CDX_CHECK_next-clock-map.md) · [Reversible-computation inquiry](load/2026-10-05_CDX_PLAN_next-reversible-control.md)
 
 [Receipt inverse control](receipt/2026-10-05_CDX_CHECK_next-inverse-trace.md) — next: one original game trace.
+
+[Pin stair prototype receipt](receipt/2026-10-05_CDX_CHECK_next-pin-boundary.md) · [Prime/quarter next prediction](load/2026-10-05_CDX_PREDICTION_next-prime-quarter.md)
