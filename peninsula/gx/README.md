@@ -1,0 +1,12 @@
+# 2026-10-05 · GRECO · equation shore · open
+
+- CDX harvest, requested by Joseph Hamper; additive geometry inquiry, open to verification and restart.
+- [Inquiry: next trace](load/2026-10-05_CDX_PLAN_next-trace.md) and [receipt: next ruler check](receipt/2026-10-05_CDX_RECEIPT_next-ruler-check.md) form the peninsula pair.
+- [Carry: next model contract](2026-10-05_CDX_CAL-001_next-model-contract.md) records the smallest next move.
+- Etiquette is part of the information: date first, short titles, Markdown face, source and status on each claim.
+- Preserve originals and conflicting readings; add corrections beside them and retain the route back.
+- Equation families here: Catalan nesting, quadratic iteration, Chebyshev motion, modular clocks, rectangle billiards, and mirror counting.
+- GRECO terminology remains GRECO terminology; a published equation is a comparison target until a construction connects it.
+- Every stalled route retains its missing input and next move; no line is declared permanently closed.
+- Public scope is mathematical summaries and questions; raw downloads and private build payload remain in the local workload.
+- Started under repository ETIQUETTE/TITLE_LAW, with local team v1/v2 consulted as source history; no finished-tier promotion or gate-clean claim.

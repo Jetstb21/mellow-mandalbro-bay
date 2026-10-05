@@ -24,3 +24,7 @@ Code stays in `src/`. Law stays here.
 - Demo files only on the public rim.
 - Raw stays tucked. Titles and bullets surface first.
 - When an island is cloned, the ledger starts and does not leave.
+
+## Equation shore · 2026-10-05
+
+[GRECO equation shore](gx/README.md) — open inquiry/receipt pair. Next: recover Gutshot trace and distinguish the clocks.
