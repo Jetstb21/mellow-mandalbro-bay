@@ -1,6 +1,6 @@
 # 2026-10-05 · GRECO · equation shore · open
 
-- CDX harvest, requested by Joseph Hamper; additive geometry inquiry, open to verification and restart.
+- CDX harvest, requested by the project owner; additive geometry inquiry, open to verification and restart.
 - [Inquiry: next trace](load/2026-10-05_CDX_PLAN_next-trace.md) and [receipt: next ruler check](receipt/2026-10-05_CDX_RECEIPT_next-ruler-check.md) form the peninsula pair.
 - [Carry: next model contract](2026-10-05_CDX_CAL-001_next-model-contract.md) records the smallest next move.
 - Etiquette is part of the information: date first, short titles, Markdown face, source and status on each claim.
@@ -20,3 +20,13 @@
 [Pin stair prototype receipt](receipt/2026-10-05_CDX_CHECK_next-pin-boundary.md) · [Prime/quarter next prediction](load/2026-10-05_CDX_PREDICTION_next-prime-quarter.md)
 
 [1801 mod nest](receipt/2026-10-05_CDX_CHECK_next-1801-nest.md) — next: declare the power-neighbor rule.
+
+## Calibrated source peninsulas · 2026-10-05
+
+[Trillion grain inquiry](grain-buckets/load/2026-10-05_GRECO_INQUIRY_next-link-trillion-bucket-residue-to-two-three-membrane-transition.md) · [exact receipt](grain-buckets/receipt/2026-10-05_GRECO_RECEIPT_next-test-trillion-residue-cycle-against-membrane-rule.md)
+
+[Equal-opposite rebuild inquiry](equal-opposite-rebuild/load/2026-10-05_GRECO_INQUIRY_next-measure-midpoint-difference-ledger-size-and-hierarchical-carry.md) · [exact receipt](equal-opposite-rebuild/receipt/2026-10-05_GRECO_RECEIPT_next-connect-nine-halves-seed-and-ternary-carry-to-slide-mod.md)
+
+[Calibrated billiard inquiry](calibrated-billiard/load/2026-10-05_GRECO_INQUIRY_next-reconstruct-ring-ledger-from-unfolded-billiard-travel-and-reflection-parity.md) · [source receipt](calibrated-billiard/receipt/2026-10-05_GRECO_RECEIPT_next-reproduce-calibrated-reflection-parity-and-physical-core-edge-gate.md)
+
+[Dark Sector triangulation](tri/2026-10-05_GRECO_TRI_next-correct-dark-sector-reachability-wording-and-test-pioneer-address-close.md). These summaries use readable titles and source paths; no content-hash addressing.
