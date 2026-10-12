@@ -44,3 +44,5 @@
 [First verdict executed](green-zone/receipt/2026-10-11_CLD_CHECK_first-verdict-executed-reloop-on-27.md) — RELOOP on n = 27, 5/5 PASS; COMMIT stays unreachable until the 18-point placement map is declared.
 
 This walk's suite is named **Prime Bridge Tag** — owner-named, function in the name: prime lane in, packet across, verdict tag out. Runner and both spans measured 9/9 PASS; bodies in the local workload.
+
+[Deep sweep to five million](green-zone/receipt/2026-10-11_CLD_CHECK_prime-family-rule-deep-sweep-five-million.md) — 3/3 PASS, 348,940 prime powers, zero mismatches; the walk returns to the placement side.
