@@ -30,3 +30,7 @@
 [Calibrated billiard inquiry](calibrated-billiard/load/2026-10-05_GRECO_INQUIRY_next-reconstruct-ring-ledger-from-unfolded-billiard-travel-and-reflection-parity.md) · [source receipt](calibrated-billiard/receipt/2026-10-05_GRECO_RECEIPT_next-reproduce-calibrated-reflection-parity-and-physical-core-edge-gate.md)
 
 [Dark Sector triangulation](tri/2026-10-05_GRECO_TRI_next-correct-dark-sector-reachability-wording-and-test-pioneer-address-close.md). These summaries use readable titles and source paths; no content-hash addressing.
+
+## Gut shot trace · 2026-10-11
+
+[Gut shot inquiry](gutshot-trace/load/2026-10-11_GRECO_INQUIRY_next-same-click-certificate-90-lock-meets-mid-lateral.md) · [100-step orb receipt](gutshot-trace/receipt/2026-10-11_GRECO_RECEIPT_next-run-kill-tests-on-100-step-orb-candidate.md) — next: same-click certificate, then distinguish the clocks. CLD summary of the GRK hundred-step drop; raw stays in the local workload.
