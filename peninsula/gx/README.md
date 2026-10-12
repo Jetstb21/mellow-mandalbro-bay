@@ -38,3 +38,5 @@
 ## Green zone gate · 2026-10-11
 
 [Green zone inquiry](green-zone/load/2026-10-11_GRECO_INQUIRY_next-attach-green-zone-receipts-to-orientation-free-read.md) · [prime-family and 3990-stack receipt](green-zone/receipt/2026-10-11_GRECO_RECEIPT_next-rederive-prime-family-rule-and-3990-stack.md) — next: attach placement receipts; re-derive the classifier independently. CLD summary, owner-stamped; biological mappings stay local per the no-medical-claims line.
+
+[Prime-family rule executed check](green-zone/receipt/2026-10-11_CLD_CHECK_prime-family-rule-executed.md) — 4/4 PASS to n = 200000 and the full 3990 loop; next: raise the sweep limit.
