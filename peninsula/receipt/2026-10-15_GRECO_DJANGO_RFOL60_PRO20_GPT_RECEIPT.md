@@ -6,10 +6,10 @@ Predictions registered before evaluation. Twenty yes-predictions: 14 observed tr
 ## Exact benchmark performed
 - 1,048,576 20-bit integers encoded and reconstructed, with mod9 additive opposite.
 - 100,000 five-digit decimal KISS-6 nested-tail round trips.
-- 60 RFOL phase/cam periodic checks.
+- One exact pair of reflected congruent right triangles sharing a hypotenuse.\n- 60 RFOL phase/cam periodic checks.
 - 10,000 exact billiard-periodicity checks.
 - Three append-only ledger events, tested for original-preserving replay.
-- Total 1,158,639 bulk assertions, no unexpected failures.
+- Total 1,158,640 bulk assertions, no unexpected failures.
 - A 1,048,576-row SQLite B-tree binary reference dataset produced locally; full archive delivered in conversation, not uploaded here.
 
 ## PRO20 PASS
