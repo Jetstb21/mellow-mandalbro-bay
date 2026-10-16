@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "status": "PASS",
+  "counts": {
+    "crt_144": 144,
+    "crt_1800": 1800,
+    "crt_1197": 1197,
+    "band_6_9": 18000,
+    "handcheck_integers": 500000,
+    "kiss6_five_digit_strings": 100000,
+    "fol_exact_address_tests": 2500,
+    "fol_d6_actions": 7500,
+    "long_frame_roundtrips": 25,
+    "gutshot_moves": 240,
+    "receipt_triad": 3
+  },
+  "test_cases": 631409,
+  "unexpected_failures": 0,
+  "scoped_expected_failures": [
+    "0 and 6 share residue 0; quotient required by simplified digit map",
+    "axis-aligned denominator-25 grid not invariant under 3-4-5 reflection"
+  ],
+  "test_kind": "exact arithmetic and finite exhaustive checks, not independent biomedical or chess endgame validation"
+}
